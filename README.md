@@ -1,5 +1,7 @@
 Warning — use responsibly. Read everything below before running this script.
 
+Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/4ekudxx/fps_xxduke/refs/heads/main/fpsscript_xxduke"))()
+
 What this is
 
 A client-side LocalScript for Roblox Studio / your own game that simulates extreme client lag for testing or comedic effect.
